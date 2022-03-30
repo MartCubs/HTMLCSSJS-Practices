@@ -1,0 +1,142 @@
+body {
+	background:white;
+	margin:0;
+}
+
+.content {
+	background-color: #f4f4f4;
+	font-family: Times-new_roman;
+	padding: 60px;
+	width: 840px;
+	max-width: 840px;
+	margin-top: 60px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 60px;
+	border-top:	6px #505050 solid;
+	border-bottom: 2px #505050 solid;
+}
+.header{
+	float: left;
+	width: 600px;
+	height: auto;
+}
+
+.headname p {
+	margin: 0;
+	text-transform: uppercase;
+	font-size: 40px;
+	font-weight: bold;
+	font-family: garamond;
+}
+.position p {
+	margin: 0;
+	text-transform: uppercase;
+	font-style: italic;
+	font-size: 18px;
+	font-weight: bold;
+}
+.contacts {
+	line-height: 0.5;
+	text-align: left;
+}
+.contacts a {
+	font-size: 16px;
+	word-wrap: break-word;
+}
+.contact p {
+	font-size: 16px;
+}
+.profile h2 {
+	word-wrap: break-word;
+	margin: 0;
+	vertical-align: top;
+	float: left;
+	width: 25%;
+	font-size: 24px;
+	font-family: Times New Roman, serif;
+	font-style: italic;
+	height: auto;
+}
+.skills h2 {
+	font-size: 24px;
+	font-family: Times New Roman, serif;
+	font-style: italic;
+}
+.skills {
+	display: block;
+	float: left;
+	width: 25%;
+	box-sizing: border-box;
+	overflow: auto;
+}
+.technical h2 {
+	margin: 0;
+	font-size: 24px;
+	font-family: Times New Roman, serif;
+	font-style: italic;
+}
+.technical {
+	margin: 0px;
+	margin-bottom: 25px;
+	display: block;
+	float: left;
+	width: 25%;
+	box-sizing: border-box;
+	overflow: auto;
+}
+.technical p {
+	margin: 0;
+}
+.technical h4 {
+	margin: 0;
+}
+.experiences {
+	margin: 0;
+}
+.experiences h2 {
+	margin: 0;
+	float: left;
+	height: 550px;
+	width: 25%;
+	font-size: 24px;
+	font-family: Times New Roman, serif;
+	font-style: italic;
+}
+.experiences h3 {
+	margin: 0;
+	margin-top: 40px;
+}
+.experiences h4 {
+	margin: 0;
+}
+.experiences h5 {
+	float: right;
+	margin-top: -40px;
+}
+.experiences p {
+	margin-bottom: 40px;
+}
+.education h2 {
+	margin: 0;
+	float: left;
+	height: 40px;
+	width: 25%;
+	font-size: 24px;
+	font-family: Times New Roman, serif;
+	font-style: italic;
+}
+.education h3 {
+	margin:0;
+}
+.education h4 {
+	margin:0;
+	margin-bottom: 40px;
+}
+.footnote {
+	text-align: center;
+	font-size: 12px;
+}
+a {
+	color: chocolate;
+}
